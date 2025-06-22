@@ -1,7 +1,6 @@
 # 🛡️ Credit Card Fraud Detection
 
-This project focuses on detecting fraudulent credit card transactions using machine learning techniques.
-
+The goal of this project is to use machine learning techniques to identify fraudulent credit card transactions.
 ---
 
 ## 📂 Project Files
@@ -13,16 +12,16 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 ## 📊 Dataset
 
-Due to GitHub's file size limit, the dataset is not stored here.
+The dataset is not stored here due to GitHub's file size restriction.
 
 🔗 **Download the dataset from Kaggle**:  
 👉 [Credit Card Fraud Detection Dataset – Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
-> *Make sure to place `creditcard.csv` in the project directory after downloading it.*
+> * After downloading `creditcard.csv`, make sure to put it in the project directory.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Exploratory Data Analysis (EDA)
 - Data preprocessing and feature selection
@@ -32,7 +31,7 @@ Due to GitHub's file size limit, the dataset is not stored here.
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -42,7 +41,7 @@ Due to GitHub's file size limit, the dataset is not stored here.
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 - Accuracy
 - Precision
